@@ -11,3 +11,7 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah melakukan langkah-langkah be
    Pindah ke folder `backend` dengan perintah berikut:
    ```sh
    cd backend
+
+   Kemudian jalankan:
+   ```sh
+   nodemon index
