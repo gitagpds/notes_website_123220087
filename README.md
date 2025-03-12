@@ -8,10 +8,7 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah melakukan langkah-langkah be
    Sebelum menjalankan website, buat database dengan nama **`notes_db`** di MySQL.
 
 2. **Menjalankan Backend**  
-   Pindah ke folder `backend` dengan perintah berikut:
+   Jalankan perintah berikut untuk masuk ke folder `backend` dan menjalankan server:  
    ```sh
    cd backend
-
-   Kemudian jalankan:
-   ```sh
    nodemon index
