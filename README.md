@@ -9,6 +9,5 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah melakukan langkah-langkah be
 
 2. **Menjalankan Backend**  
    Pindah ke folder `backend` dengan perintah berikut:
+   ```sh
    cd backend
-   Kemudian jalankan:
-   nodemon index
